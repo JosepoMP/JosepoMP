@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Jose</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Dev+in+Progress;JavaScript+Lover+%7C+Frontend+%2B+Backend;Siempre+aprendiendo+y+creando" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Full+Stack+Dev+in+Progress;JavaScript+Lover+%7C+Frontend+%2B+Backend;Siempre+aprendiendo+y+creando" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,40 +18,28 @@
 
 ### 🛠️ Tech Stack
 
-#### 💻 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-#### 🔧 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-#### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,git,github,vscode&theme=dark" />
+</p>
 
 ---
 
-### 📈 GitHub Insights
+### 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosepoMP&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=ff6f61&text_color=c9d1d9&icon_color=f66a0a" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosepoMP&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=ff6f61&text_color=c9d1d9" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=JosepoMP&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=ff6f61&icon_color=ff6f61&text_color=c9d1d9&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosepoMP&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=ff6f61&text_color=c9d1d9&hide_border=true" width="49%" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhamile08&theme=dark" />
-</p>
+<br><br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JosepoMP&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=JosepoMP&theme=tokyonight&background=0D1117&ring=ff6f61&currStreakLabel=f66a0a&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=JosepoMP&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
 
 ---
 
