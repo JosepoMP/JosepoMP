@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JosepoMP&theme=algolia&hide_border=true&background=0D1117&ring=ff6f61&currStreakLabel=f66a0a" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhamile08&theme=dark" />
 </p>
 
 <p align="center">
