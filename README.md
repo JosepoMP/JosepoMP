@@ -55,17 +55,17 @@
 
 ---
 
-### 🌐 Contact & Links
+### 🌐 Contacto & Redes
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[TU-LINKEDIN]" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
+  <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/[TU-TWITTER]" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge">
+  <a href="https://twitter.com/TU-USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://[TU-PORTAFOLIO].com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-FF5722?logo=Firefox&logoColor=white&style=for-the-badge">
+  <a href="https://TU-PORTAFOLIO.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-%23FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
   </a>
 </p>
 
