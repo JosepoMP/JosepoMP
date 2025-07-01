@@ -6,13 +6,13 @@
 
 ---
 
-### 🧠 About me / Sobre mí
+### 🧠 About Me
 
-- 🎓 Full Stack dev student, apasionado por el frontend y backend.
-- ⚙️ Me gusta crear cosas funcionales y con propósito.
-- 🧪 Learning by doing, breaking & rebuilding.
-- 🏋️‍♂️ Gym rat, curioso y creativo.
-- 🌱 Improving daily in JS, React, Node.js y más.
+- 🎓 Student Full Stack Developer.
+- 🧩 I love solving problems with code — clean logic + beautiful UI.
+- ⚙️ Currently working on bots, APIs, and fun interfaces.
+- 🏋️‍♂️ Gym rat & design enthusiast in my free time.
+- 🌱 Forever learning — especially JS, React & OpenAI APIs.
 
 ---
 
@@ -68,22 +68,30 @@
 
 ---
 
-### 🎧 Extra
+### 🏆 Certifications & Highlights
 
-- 🏋️‍♂️ Gym & discipline fan  
-- ☕ Productivity & self-growth  
-- 🎧 Lo-fi, synthwave, y buena música para concentrarse  
-- 🧠 Psychology, learning and mindful coding
+- [🧾 Nombre del certificado] – Plataforma
+- [🚀 Proyecto destacado] – Breve descripción
+- *(Agrega más aquí...)*
 
 ---
 
-### 🤝 Open to collaborate!
+### 🎨 Beyond Code
 
-If you're working on something cool and need a teammate,  
-**I'm in! Let's build together 🚀**
+- 🏋️‍♂️ Gym & healthy habits  
+- 🎧 Music to focus  
+- 🎮 Casual gaming  
+- ✍️ Learning about creativity, design, and psychology
+
+---
+
+### 🤝 Let’s Collaborate
+
+Have a cool idea or want to build something together?  
+**Feel free to reach out!** I'm open to projects, collabs, and challenges.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
