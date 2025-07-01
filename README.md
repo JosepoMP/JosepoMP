@@ -59,13 +59,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
   <a href="https://twitter.com/TU-USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" />
   </a>
   <a href="https://TU-PORTAFOLIO.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-%23FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" />
   </a>
 </p>
 
