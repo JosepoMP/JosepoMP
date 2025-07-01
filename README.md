@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Jose</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Dev+in+Progress;Explorador+del+frontend+y+backend;Learning+by+breaking+things;Aprendo+haciendo+(y+rompiendo);Coding+with+clarity+%26+creativity;Creando+con+prop%C3%B3sito+y+l%C3%B3gica;Gym+rat+que+también+codea;Solving+bugs+one+rep+at+a+time;Discipline+%3E+Motivation;Disciplina+%2B+constancia+%3D+progreso;Not+a+JS+fanboy,+but+we+get+along;Pasi%C3%B3n+por+mejorar,+l%C3%ADnea+a+l%C3%ADnea;Let+curiosity+lead+the+code;Siempre+aprendiendo+y+creando" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=550&lines=Full+Stack+Dev+in+Progress;Explorador+frontend+y+backend;Learning+by+breaking+things;Aprendo+haciendo+y+rompiendo;Coding+with+purpose+%26+clarity;Creando+con+l%C3%B3gica+y+creatividad;Solving+bugs+one+rep+at+a+time;Disciplina+y+constancia+%3D+progreso;Not+a+JS+fanboy%2C+but+we+get+along;Siempre+aprendiendo+y+creando" alt="Typing animation" />
 </p>
 
 ---
