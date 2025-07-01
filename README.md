@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Jose</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Full+Stack+Dev+in+Progress;JavaScript+Lover+%7C+Frontend+%2B+Backend;Siempre+aprendiendo+y+creando" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Dev+in+Progress;Explorador+del+frontend+y+backend;Learning+by+breaking+things;Aprendo+haciendo+(y+rompiendo);Coding+with+clarity+%26+creativity;Creando+con+prop%C3%B3sito+y+l%C3%B3gica;Gym+rat+que+también+codea;Solving+bugs+one+rep+at+a+time;Discipline+%3E+Motivation;Disciplina+%2B+constancia+%3D+progreso;Not+a+JS+fanboy,+but+we+get+along;Pasi%C3%B3n+por+mejorar,+l%C3%ADnea+a+l%C3%ADnea;Let+curiosity+lead+the+code;Siempre+aprendiendo+y+creando" alt="Typing SVG" />
 </p>
 
 ---
