@@ -55,7 +55,7 @@
 
 ---
 
-### 🌐 Contacto & Redes
+### 🌐 Contact & Links
 
 <p align="center">
   <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
