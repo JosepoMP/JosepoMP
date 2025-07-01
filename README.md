@@ -33,7 +33,9 @@
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=JosepoMP&theme=tokyonight&background=0D1117&ring=ff6f61&currStreakLabel=f66a0a&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhamile08&theme=dark" />
+</p>
 
 <br><br>
 
