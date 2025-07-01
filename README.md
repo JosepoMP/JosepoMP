@@ -4,14 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&speed=40&center=true&vCenter=true&width=600&lines=Full+Stack+Dev+in+Progress;Explorador+frontend+y+backend;Learning+by+breaking+things;Aprendo+haciendo+y+rompiendo;Coding+with+purpose+%26+clarity;Creando+con+l%C3%B3gica+y+creatividad;Siempre+aprendiendo+y+creando;Let+curiosity+lead+the+code;Not+a+JS+fanboy%2C+but+we+get+along" alt="Typing animation" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&speed=40&center=true&vCenter=true&width=600&lines=🏋️+MODO+GYM+ACTIVADO;Solving+bugs+one+rep+at+a+time;Discipline+%3E+Motivation;Disciplina+y+constancia+%3D+progreso;Small+steps,+strong+results;Entreno+cuerpo+y+mente;Gym+rat+que+también+codea" alt="Typing animation gym" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&speed=40&center=true&vCenter=true&width=600&lines=🧠+MODO+MENTE+ON;Think+deep%2C+code+clear;Aprender+es+mi+superpoder;Create.+Break.+Improve.;Focus+is+fuel;Cada+l%C3%ADnea+es+una+decisi%C3%B3n;Grow+with+intention" alt="Typing animation mind" />
-</p>
-
 ---
 
 ### 🧠 About Me
