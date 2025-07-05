@@ -44,7 +44,7 @@
 </div>
 
 ---
- <p align="center" >
+ <h3 align="center" /h3>
 ### 🌐 Let's connect / Contacto
 
 [Instagram](https://instagram.com/josepomp) ・ [LinkedIn](https://www.linkedin.com/in/josepomp) ・ josepomp@gmail.com
