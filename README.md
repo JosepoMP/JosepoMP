@@ -45,8 +45,7 @@
 
 ---
    
- <h3 align="center"> 🌐 Let's connect / Contacto</h3>
- <p align="center" >
+ <h3> 🌐 Let's connect / Contacto</h3>
  [Instagram](https://instagram.com/josepomp) ・ [LinkedIn](https://www.linkedin.com/in/josepomp) ・ josepomp@gmail.com 
 
 ---
