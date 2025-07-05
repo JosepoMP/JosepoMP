@@ -70,9 +70,9 @@
 
 ### 🏆 Certifications & Highlights
 
-- [🧾 Nombre del certificado] – Plataforma
-- [🚀 Proyecto destacado] – Breve descripción
-- *(Agrega más aquí...)*
+- [🧾 Nombre del certificado] – platform
+- [🚀 Proyecto destacado] – description
+- *(more more)*
 
 ---
 
