@@ -34,7 +34,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosepoMP&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosepoMP&theme=dark"/> 
 </p>
 
 <br><br>
@@ -46,8 +46,8 @@
 ---
    
  <h3 align="center"> 🌐 Let's connect / Contacto</h3>
-
- < p align="center"> [Instagram](https://instagram.com/josepomp) ・ [LinkedIn](https://www.linkedin.com/in/josepomp) ・ josepomp@gmail.com />
+ <p align="center" >
+ [Instagram](https://instagram.com/josepomp) ・ [LinkedIn](https://www.linkedin.com/in/josepomp) ・ josepomp@gmail.com 
 
 ---
 
