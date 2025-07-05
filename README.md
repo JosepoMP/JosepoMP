@@ -44,10 +44,10 @@
 </div>
 
 ---
- <h3 align="center" /h3>
- 🌐 Let's connect / Contacto
+   
+ <h3 align="center"> 🌐 Let's connect / Contacto</h3>
 
- < p src="[Instagram](https://instagram.com/josepomp) ・ [LinkedIn](https://www.linkedin.com/in/josepomp) ・ josepomp@gmail.com" />  
+ [Instagram](https://instagram.com/josepomp) ・ [LinkedIn](https://www.linkedin.com/in/josepomp) ・ josepomp@gmail.com
 
 ---
 
