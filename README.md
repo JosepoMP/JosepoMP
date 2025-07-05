@@ -45,8 +45,8 @@
 
 ---
    
- <h3> 🌐 Let's connect / Contacto</h3>
- [Instagram](https://instagram.com/josepomp) ・ [LinkedIn](https://www.linkedin.com/in/josepomp) ・ josepomp@gmail.com 
+### 🌐 Let's connect / Contacto
+ [Instagram](https://instagram.com/josepomp) ・ [LinkedIn](https://www.linkedin.com/in/josepomp) ・ josepatinohincapie@gmail.com
 
 ---
 
