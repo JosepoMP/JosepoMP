@@ -61,7 +61,7 @@
 
 - [🧾 Nombre del certificado] – platform
 - [🚀 Proyecto destacado] – description
-- *(more more)*
+- *(more and more)*
 
 ---
 
