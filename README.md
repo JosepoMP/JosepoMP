@@ -11,7 +11,7 @@
 - 🎓 Student Full Stack Developer.
 - 🧩 I love solving problems with code — clean logic + beautiful UI.
 - ⚙️ Currently working on bots, APIs, and fun interfaces.
-- 🏋️‍♂️ Gym rat & design enthusiast in my free time.
+- 🏋️‍♂️ Sport lover & design enthusiast in my free time.
 - 🌱 Forever learning — especially JS, React & OpenAI APIs.
 
 ---
